@@ -221,6 +221,7 @@ def aplicar_filtros(df: pd.DataFrame):
             "País",
             options=sorted(df["País"].unique()),
             default=sorted(df["País"].unique()),
+            placeholder='Selecione um país'
         )
 
         categorias = st.multiselect(
