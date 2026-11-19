@@ -105,13 +105,13 @@ CATEGORIAS = {
 
     "Saques": [
         "seven bank", "atm", "withdraw", "saque", "lawson bank",
-        "japan post bank", "e-net", "Int'l",
+        "japan post bank", "e-net", "int'l",
     ],
     "Alimentação": [
         "familymart", "seven-eleven", "7-eleven", "sukiya", "mcdonald",
         "sushiro", "caffe", "cafe", "restaurant", "food", "bakery",
         "convenience", "gs25", "cu", "kakaomobi", "pascucci", "an kyoto",
-        "shokkenkenbaiki", "81cafe", "Spillout", "Udon",
+        "shokkenkenbaiki", "81cafe", "spillout", "udon",
     ],
     "Transporte": [
         "jr", "jrnishinihon", "jr east", "seven bank", "subway", "metro",
