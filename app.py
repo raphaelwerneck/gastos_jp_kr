@@ -110,7 +110,7 @@ CATEGORIAS = {
         "familymart", "seven-eleven", "7-eleven", "sukiya", "mcdonald",
         "sushiro", "caffe", "cafe", "restaurant", "food", "bakery",
         "convenience", "gs25", "cu", "kakaomobi", "pascucci", "an kyoto",
-        "shokkenkenbaiki", "81cafe",
+        "shokkenkenbaiki", "81cafe", "Spillout", "Udon",
     ],
     "Transporte": [
         "jr", "jrnishinihon", "jr east", "seven bank", "subway", "metro",
