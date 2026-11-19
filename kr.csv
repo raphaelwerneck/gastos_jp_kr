@@ -1,0 +1,15 @@
+TransferWise ID,Date,Date Time,Amount,Currency,Description,Payment Reference,Running Balance,Exchange From,Exchange To,Exchange Rate,Payer Name,Payee Name,Payee Account Number,Merchant,Attachment,Note,Total fees,Exchange To Amount,Transaction Type,Transaction Details Type
+,19-11-2026,19-11-2026 11:52:48.352,-6900,KRW,Transação por cartão de 6.900 KRW emitida por Gs25 Yunnamgongwonjum SEOUL,,,,,,,,,Gs25 Yunnamgongwonjum SEOUL,,,0,,DEBIT,CARD
+,18-11-2026,18-11-2026 13:25:37.602,-33000,KRW,Transação por cartão de 33.000 KRW emitida por Spillout SEOUL,,,,,,,,,Spillout SEOUL,,,0,,DEBIT,CARD
+,18-11-2026,18-11-2026 07:02:45.445,-2900,KRW,Transação por cartão de 2.900 KRW emitida por (joo) Atparks Jongro3g SEOUL,,,,,,,,,(joo) Atparks Jongro3g SEOUL,,,0,,DEBIT,CARD
+,18-11-2026,18-11-2026 04:21:35.658,-24000,KRW,Transação por cartão de 24.000 KRW emitida por All Day Udon Yeonnam B SEOUL,,,,,,,,,All Day Udon Yeonnam B SEOUL,,,0,,DEBIT,CARD
+,17-11-2026,17-11-2026 13:34:22.877,100,KRW,"Transação por cartão de 100 KRW emitida por Eximbay Co.,*Kakaomobi GYEONGGI-DO",,,,,,,,,"Eximbay Co.,*Kakaomobi GYEONGGI-DO",,,0,,CREDIT,CARD
+,17-11-2026,17-11-2026 13:34:16.056,-100,KRW,"Transação por cartão de 100 KRW emitida por Eximbay Co.,*Kakaomobi GYEONGGI-DO",,,,,,,,,"Eximbay Co.,*Kakaomobi GYEONGGI-DO",,,0,,DEBIT,CARD
+,17-11-2026,17-11-2026 08:22:29.120,-3300,KRW,Transação por cartão de 3.300 KRW emitida por Caffe Pascucci BUSAN,,,,,,,,,Caffe Pascucci BUSAN,,,0,,DEBIT,CARD
+,17-11-2026,17-11-2026 05:24:30.888,-34000,KRW,Transação por cartão de 34.000 KRW emitida por Cheongsapo Bunsik BUSAN,,,,,,,,,Cheongsapo Bunsik BUSAN,,,0,,DEBIT,CARD
+,16-11-2026,16-11-2026 11:55:39.559,-6300,KRW,Transação por cartão de 6.300 KRW emitida por Gs25 Seomyonhaegangjum BUSAN,,,,,,,,,Gs25 Seomyonhaegangjum BUSAN,,,0,,DEBIT,CARD
+,16-11-2026,16-11-2026 11:26:32.886,-13500,KRW,Transação por cartão de 13.500 KRW emitida por Ssiyu(cu)seomyonilbung BUSAN,,,,,,,,,Ssiyu(cu)seomyonilbung BUSAN,,,0,,DEBIT,CARD
+,16-11-2026,16-11-2026 04:50:29.570,-24000,KRW,Transação por cartão de 24.000 KRW emitida por Soolgodang BUSAN,,,,,,,,,Soolgodang BUSAN,,,0,,DEBIT,CARD
+,15-11-2026,15-11-2026 12:05:04.652,-14800,KRW,Transação por cartão de 14.800 KRW emitida por Ssiyujobanggainjum BUSAN,,,,,,,,,Ssiyujobanggainjum BUSAN,,,0,,DEBIT,CARD
+,15-11-2026,15-11-2026 10:28:36.725,-103600,KRW,Transação por cartão de 103.600 KRW emitida por Int'l  Traveler Ter. BUSAN,,,,,,,,,Int'l  Traveler Ter. BUSAN,,,0,,DEBIT,CARD
+,15-11-2026,15-11-2026 04:40:07.040,337725,KRW,40.695 JPY convertidos para 337.725 KRW,,,JPY,KRW,8.37114,,,,,,,0,337725,CREDIT,CONVERSION

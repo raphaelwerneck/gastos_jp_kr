@@ -1,0 +1,61 @@
+TransferWise ID,Date,Date Time,Amount,Currency,Description,Payment Reference,Running Balance,Exchange From,Exchange To,Exchange Rate,Payer Name,Payee Name,Payee Account Number,Merchant,Attachment,Note,Total fees,Exchange To Amount,Transaction Type,Transaction Details Type
+,19-11-2026,19-11-2026 07:46:56.990,13750,JPY,Transação por cartão de -13.750 JPY emitida por Utanokoji Skechers KYOTO,,,,,,,,,Utanokoji Skechers KYOTO,,,0,,CREDIT,CARD
+,18-11-2026,18-11-2026 12:52:48.813,3284,JPY,Transação por cartão de -3.284 JPY emitida por Refund Biccamera Inc TOKYO,,,,,,,,,Refund Biccamera Inc TOKYO,,,0,,CREDIT,CARD
+,18-11-2026,18-11-2026 12:49:53.350,884,JPY,Transação por cartão de -884 JPY emitida por Refund Don Quijote TOKYO,,,,,,,,,Refund Don Quijote TOKYO,,,0,,CREDIT,CARD
+,18-11-2026,18-11-2026 04:05:36.756,3465,JPY,Transação por cartão de -3.465 JPY emitida por Knotkyoto OOSAKAFU,,,,,,,,,Knotkyoto OOSAKAFU,,,0,,CREDIT,CARD
+,15-11-2026,15-11-2026 04:40:07.040,-40695,JPY,40.695 JPY convertidos para 337.725 KRW,,,JPY,KRW,8.37114,,,,,,,351,337725,DEBIT,CONVERSION
+,14-11-2026,14-11-2026 22:42:53.498,-775,JPY,Transação por cartão de 775 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,14-11-2026,14-11-2026 12:25:52.996,-498,JPY,Transação por cartão de 498 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,14-11-2026,14-11-2026 11:53:03.741,-880,JPY,Transação por cartão de 880 JPY emitida por Sukiya TOKYO,,,,,,,,,Sukiya TOKYO,,,0,,DEBIT,CARD
+,14-11-2026,14-11-2026 09:03:16.599,-675,JPY,Transação por cartão de 675 JPY emitida por Seven-Eleven TOKYO,,,,,,,,,Seven-Eleven TOKYO,,,0,,DEBIT,CARD
+,14-11-2026,14-11-2026 02:37:29.421,-1138,JPY,Transação por cartão de 1.138 JPY emitida por Hiroshimaekibiru HIROSHIMA,,,,,,,,,Hiroshimaekibiru HIROSHIMA,,,0,,DEBIT,CARD
+,14-11-2026,14-11-2026 02:07:51.024,-19660,JPY,Transação por cartão de 19.660 JPY emitida por Jrnishinihon OSAKA,,,,,,,,,Jrnishinihon OSAKA,,,0,,DEBIT,CARD
+,13-11-2026,13-11-2026 22:38:20.205,-1280,JPY,Transação por cartão de 1.280 JPY emitida por Mcdonald's TOKYO,,,,,,,,,Mcdonald's TOKYO,,,0,,DEBIT,CARD
+,13-11-2026,13-11-2026 12:41:12.196,-877,JPY,Transação por cartão de 877 JPY emitida por Daikoku Drug OSAKA,,,,,,,,,Daikoku Drug OSAKA,,,0,,DEBIT,CARD
+,13-11-2026,13-11-2026 12:20:37.189,-4110,JPY,Transação por cartão de 4.110 JPY emitida por Sushiro OSAKA,,,,,,,,,Sushiro OSAKA,,,0,,DEBIT,CARD
+,13-11-2026,13-11-2026 05:40:32.622,-3100,JPY,Transação por cartão de 3.100 JPY emitida por Hinata OSAKA,,,,,,,,,Hinata OSAKA,,,0,,DEBIT,CARD
+,12/11/2026,12/11/2026 12:34,-341,JPY,Transação por cartão de 341 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,12/11/2026,12/11/2026 5:35,-220,JPY,Transação por cartão de 220 JPY emitida por Daiso HIROSHIMA,,,,,,,,,Daiso HIROSHIMA,,,0,,DEBIT,CARD
+,12/11/2026,12/11/2026 1:58,-1518,JPY,Transação por cartão de 1.518 JPY emitida por Daikoku Drug NARA,,,,,,,,,Daikoku Drug NARA,,,0,,DEBIT,CARD
+,12/11/2026,12/11/2026 1:38,-514,JPY,Transação por cartão de 514 JPY emitida por Seven-Eleven TOKYO,,,,,,,,,Seven-Eleven TOKYO,,,0,,DEBIT,CARD
+,11/11/2026,11/11/2026 12:39,-1090,JPY,Transação por cartão de 1.090 JPY emitida por Sukiya TOKYO,,,,,,,,,Sukiya TOKYO,,,0,,DEBIT,CARD
+,11/11/2026,11/11/2026 10:27,-1320,JPY,Transação por cartão de 1.320 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,11/11/2026,11/11/2026 7:47,-10000,JPY,Transação por cartão de 10.000 JPY emitida por Seven Bank OSAKA,,,,,,,,,Seven Bank OSAKA,,,0,,DEBIT,CARD
+,11/11/2026,11/11/2026 6:47,-36130,JPY,Transação por cartão de 36.130 JPY emitida por Bic Camera TOUKIYOUTO,,,,,,,,,Bic Camera TOUKIYOUTO,,,0,,DEBIT,CARD
+,11/11/2026,11/11/2026 5:36,-3180,JPY,Transação por cartão de 3.180 JPY emitida por Namba Parks OSAKA,,,,,,,,,Namba Parks OSAKA,,,0,,DEBIT,CARD
+,10/11/2026,10/11/2026 12:12,-1890,JPY,Transação por cartão de 1.890 JPY emitida por Sukiya TOKYO,,,,,,,,,Sukiya TOKYO,,,0,,DEBIT,CARD
+,10/11/2026,10/11/2026 5:52,-13750,JPY,Transação por cartão de 13.750 JPY emitida por Utanokoji Skechers KYOTO,,,,,,,,,Utanokoji Skechers KYOTO,,,0,,DEBIT,CARD
+,10/11/2026,10/11/2026 2:07,-600,JPY,Transação por cartão de 600 JPY emitida por Arashiyamaomokageterra KYOTO,,,,,,,,,Arashiyamaomokageterra KYOTO,,,0,,DEBIT,CARD
+,9/11/2026,9/11/2026 10:52,-1310,JPY,Transação por cartão de 1.310 JPY emitida por Seven-Eleven TOKYO,,,,,,,,,Seven-Eleven TOKYO,,,0,,DEBIT,CARD
+,9/11/2026,9/11/2026 8:25,-45650,JPY,Transação por cartão de 45.650 JPY emitida por Knotkyoto OOSAKAFU,,,,,,,,,Knotkyoto OOSAKAFU,,,0,,DEBIT,CARD
+,9/11/2026,9/11/2026 7:42,-18733,JPY,Transação por cartão de 18.733 JPY emitida por Columbia Kyoto Shop KYOTO,,,,,,,,,Columbia Kyoto Shop KYOTO,,,0,,DEBIT,CARD
+,9/11/2026,9/11/2026 5:25,-2990,JPY,Transação por cartão de 2.990 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,9/11/2026,9/11/2026 5:19,-2490,JPY,Transação por cartão de 2.490 JPY emitida por Kyoto Honten KYOTO,,,,,,,,,Kyoto Honten KYOTO,,,0,,DEBIT,CARD
+,8/11/2026,8/11/2026 13:03,138900,JPY,Dinheiro adicionado à conta,,,BRL,JPY,28.7523,,,,,,,0,138900,CREDIT,MONEY_ADDED
+,8/11/2026,8/11/2026 10:55,-1433,JPY,Transação por cartão de 1.433 JPY emitida por Seven-Eleven TOKYO,,,,,,,,,Seven-Eleven TOKYO,,,0,,DEBIT,CARD
+,8/11/2026,8/11/2026 4:24,-990,JPY,Transação por cartão de 990 JPY emitida por Puraudeko KYOTO,,,,,,,,,Puraudeko KYOTO,,,0,,DEBIT,CARD
+,8/11/2026,8/11/2026 2:46,-990,JPY,Transação por cartão de 990 JPY emitida por Puraudeko KYOTO,,,,,,,,,Puraudeko KYOTO,,,0,,DEBIT,CARD
+,8/11/2026,8/11/2026 1:37,-1200,JPY,Transação por cartão de 1.200 JPY emitida por Themuseumofkyoto KYOTO,,,,,,,,,Themuseumofkyoto KYOTO,,,0,,DEBIT,CARD
+,7/11/2026,7/11/2026 9:17,-950,JPY,Transação por cartão de 950 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,7/11/2026,7/11/2026 8:44,-982,JPY,Transação por cartão de 982 JPY emitida por Seven-Eleven TOKYO,,,,,,,,,Seven-Eleven TOKYO,,,0,,DEBIT,CARD
+,7/11/2026,7/11/2026 5:40,-4900,JPY,Transação por cartão de 4.900 JPY emitida por An KYOTO,,,,,,,,,An KYOTO,,,0,,DEBIT,CARD
+,7/11/2026,7/11/2026 3:47,-3200,JPY,Transação por cartão de 3.200 JPY emitida por Kstylegosyonishi KYOTO,,,,,,,,,Kstylegosyonishi KYOTO,,,0,,DEBIT,CARD
+,6/11/2026,6/11/2026 11:42,-4460,JPY,Transação por cartão de 4.460 JPY emitida por Kaitenzushiedotsuko Ue TOKYO,,,,,,,,,Kaitenzushiedotsuko Ue TOKYO,,,0,,DEBIT,CARD
+,6/11/2026,6/11/2026 6:44,-20000,JPY,Transação por cartão de 20.000 JPY emitida por Seven Bank YAMANASHI,,,,,,,,,Seven Bank YAMANASHI,,,0,,DEBIT,CARD
+,6/11/2026,6/11/2026 5:37,-2360,JPY,Transação por cartão de 2.360 JPY emitida por Sq*81cafe YAMANASHI,,,,,,,,,Sq*81cafe YAMANASHI,,,0,,DEBIT,CARD
+,6/11/2026,6/11/2026 2:20,-260,JPY,Transação por cartão de 260 JPY emitida por Tanukijaya YAMANASHI,,,,,,,,,Tanukijaya YAMANASHI,,,0,,DEBIT,CARD
+,6/11/2026,6/11/2026 1:10,-2400,JPY,Transação por cartão de 2.400 JPY emitida por Hujisanpanoramaro-Puue YAMANASHI,,,,,,,,,Hujisanpanoramaro-Puue YAMANASHI,,,0,,DEBIT,CARD
+,5/11/2026,5/11/2026 22:05,-1290,JPY,Transação por cartão de 1.290 JPY emitida por Jr East Shopping Cente TOUKIYOUTO,,,,,,,,,Jr East Shopping Cente TOUKIYOUTO,,,0,,DEBIT,CARD
+,5/11/2026,5/11/2026 11:46,-258,JPY,Transação por cartão de 258 JPY emitida por Mibasketttaitoushitaya TOKYO,,,,,,,,,Mibasketttaitoushitaya TOKYO,,,0,,DEBIT,CARD
+,5/11/2026,5/11/2026 11:34,-1732,JPY,Transação por cartão de 1.732 JPY emitida por Waizumato CHIBA,,,,,,,,,Waizumato CHIBA,,,0,,DEBIT,CARD
+,5/11/2026,5/11/2026 7:55,-440,JPY,Transação por cartão de 440 JPY emitida por Daiso HIROSHIMA,,,,,,,,,Daiso HIROSHIMA,,,0,,DEBIT,CARD
+,5/11/2026,5/11/2026 5:29,-1446,JPY,Transação por cartão de 1.446 JPY emitida por Seven-Eleven TOKYO,,,,,,,,,Seven-Eleven TOKYO,,,0,,DEBIT,CARD
+,5/11/2026,5/11/2026 4:35,-3010,JPY,Transação por cartão de 3.010 JPY emitida por G U Co  Ltd YAMAGUCHI,,,,,,,,,G U Co  Ltd YAMAGUCHI,,,0,,DEBIT,CARD
+,4/11/2026,4/11/2026 6:22,-3050,JPY,Transação por cartão de 3.050 JPY emitida por Jr East Shopping Cente TOUKIYOUTO,,,,,,,,,Jr East Shopping Cente TOUKIYOUTO,,,0,,DEBIT,CARD
+,3/11/2026,3/11/2026 8:22,-636,JPY,Transação por cartão de 636 JPY emitida por Sundrug TOKYO,,,,,,,,,Sundrug TOKYO,,,0,,DEBIT,CARD
+,3/11/2026,3/11/2026 7:19,-1490,JPY,Transação por cartão de 1.490 JPY emitida por G U Co  Ltd YAMAGUCHI,,,,,,,,,G U Co  Ltd YAMAGUCHI,,,0,,DEBIT,CARD
+,3/11/2026,3/11/2026 6:44,-10459,JPY,Transação por cartão de 10.459 JPY emitida por D Mega Donquijote Shib 03-5428-4086,,,,,,,,,D Mega Donquijote Shib 03-5428-4086,,,0,,DEBIT,CARD
+,3/11/2026,3/11/2026 4:40,-3180,JPY,Transação por cartão de 3.180 JPY emitida por Shokkenkenbaiki TOKYO,,,,,,,,,Shokkenkenbaiki TOKYO,,,0,,DEBIT,CARD
+,2/11/2026,2/11/2026 7:51,-1702,JPY,Transação por cartão de 1.702 JPY emitida por Waizumato CHIBA,,,,,,,,,Waizumato CHIBA,,,0,,DEBIT,CARD
+,2/11/2026,2/11/2026 1:45,-433,JPY,Transação por cartão de 433 JPY emitida por Familymart TOKYO,,,,,,,,,Familymart TOKYO,,,0,,DEBIT,CARD
+,29-10-2026,29-10-2026 19:17:13.051,149765,JPY,"953,61 USD convertidos para 149.765 JPY",,,USD,JPY,157.945,,,,,,,0,149765,CREDIT,CONVERSION
