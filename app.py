@@ -101,6 +101,11 @@ MOEDAS = {
 }
 
 CATEGORIAS = {
+
+    "Saques": [
+        "seven bank", "atm", "withdraw", "saque", "lawson bank",
+        "japan post bank", "e-net",
+    ],
     "Alimentação": [
         "familymart", "seven-eleven", "7-eleven", "sukiya", "mcdonald",
         "sushiro", "caffe", "cafe", "restaurant", "food", "bakery",
