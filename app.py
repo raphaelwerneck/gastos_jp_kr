@@ -87,6 +87,27 @@ st.markdown(
 )
 
 
+def converter_datas(serie: pd.Series) -> pd.Series:
+    texto = (
+        serie.astype(str)
+        .str.strip()
+        .str.replace("'", "", regex=False)
+        .str.split(" ").str[0]
+        .str.replace("/", "-", regex=False)
+    )
+
+    br = pd.to_datetime(texto, format="%d-%m-%Y", errors="coerce")
+    iso = pd.to_datetime(texto, format="%Y-%m-%d", errors="coerce")
+
+    numero = pd.to_numeric(texto, errors="coerce")
+    serial = pd.to_datetime(
+        numero.where(numero.between(30000, 60000)),
+        unit="D",
+        origin="1899-12-30",
+        errors="coerce",
+    )
+
+    return br.fillna(iso).fillna(serial)
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -171,7 +192,7 @@ def carregar_dados():
             continue
 
         df["País"] = pais
-        df["Data"] = pd.to_datetime(df["Date"], format="%d-%m-%Y", errors="coerce")
+        df["Data"] = converter_datas(df["Date"])
         df["DataHora"] = pd.to_datetime(
             df["Date Time"], format="%d-%m-%Y %H:%M:%S.%f", errors="coerce"
         )
