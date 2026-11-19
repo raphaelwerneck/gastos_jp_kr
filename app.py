@@ -104,7 +104,7 @@ CATEGORIAS = {
 
     "Saques": [
         "seven bank", "atm", "withdraw", "saque", "lawson bank",
-        "japan post bank", "e-net", "Int'l  Traveler Ter. BUSAN",
+        "japan post bank", "e-net", "Int'l",
     ],
     "Alimentação": [
         "familymart", "seven-eleven", "7-eleven", "sukiya", "mcdonald",
