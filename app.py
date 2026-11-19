@@ -2,10 +2,11 @@ import os
 from datetime import date, timedelta
 from pathlib import Path
 
+
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-
+import re
 
 
 st.set_page_config(
@@ -199,14 +200,16 @@ def carregar_dados():
     return pd.concat(registros, ignore_index=True)
 
 
+
 def classificar_categoria(texto: str) -> str:
-    texto = str(texto).lower()
+    texto = " " + re.sub(r"\s+", " ", str(texto).lower()).strip() + " "
 
     for categoria, palavras in CATEGORIAS.items():
         if any(palavra in texto for palavra in palavras):
             return categoria
 
     return "Outros"
+
 
 
 def formatar_brl(valor: float) -> str:
